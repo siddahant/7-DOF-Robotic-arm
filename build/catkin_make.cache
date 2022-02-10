@@ -1,0 +1,2 @@
+bazu:franka_description:franka_gazebo
+-DCATKIN_DEVEL_PREFIX=/home/siddahant/robotic_arms_ws/devel -DCMAKE_INSTALL_PREFIX=/home/siddahant/robotic_arms_ws/install -G Unix Makefiles

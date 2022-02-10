@@ -1,0 +1,8 @@
+prefix=/home/siddahant/robotic_arms_ws/install
+
+Name: bazu
+Description: Description of bazu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
