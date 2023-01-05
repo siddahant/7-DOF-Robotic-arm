@@ -72,7 +72,6 @@ echo "source /path/to/catkin-ws/devel/setup.bash" >> ~/.bashrc
 ---
 ----
 
-This project originated from UDEMY Robotics
 
 
 
