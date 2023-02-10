@@ -12,17 +12,17 @@
 * **RRR** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Revolute Revolute Revolute](http://www.roboticsbible.com/robot-links-and-joints.html)
 * **URDF** &nbsp;&nbsp;&nbsp; [Unified Robot Description Format](http://wiki.ros.org/urdf)
 
- ![alt text](https://github.com/noshluk2/ROS-Ultimate-guide-for-Custom-Robotic-Arms-and-Panda-7-DOF-/blob/master/Images/mainCover.png)
+ ![alt text](https://github.com/siddahant/7_dof_franka_robotic_arm_ros/blob/master/src/Images/mainCover.png)
  
 ---
 
 ## Features
 * **Building Custom Robotic Arm** 
-  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-guide-for-Custom-Robotic-Arms-and-Panda-7-DOF-/blob/master/Images/bazu_urdf.gif)
+  -  ![alt text](https://github.com/siddahant/7_dof_franka_robotic_arm_ros/blob/master/src/Images/bazu_urdf.gif)
 * **Controllers Test** 
-  -  ![alt text](https://github.com/noshluk2/ROS-Ultimate-guide-for-Custom-Robotic-Arms-and-Panda-7-DOF-/blob/master/Images/controller_test.gif)
+  -  ![alt text](https://github.com/siddahant/7_dof_franka_robotic_arm_ros/blob/master/src/Images/controller_test.gif)
 * **Drawing Shapes**
-  - ![alt text](https://github.com/noshluk2/ROS-Ultimate-guide-for-Custom-Robotic-Arms-and-Panda-7-DOF-/blob/master/Images/panda_move.gif)
+  - ![alt text](https://github.com/siddahant/7_dof_franka_robotic_arm_ros/blob/master/src/Images/panda_move.gif)
 ----
 
 ### 2. Environment Setup
